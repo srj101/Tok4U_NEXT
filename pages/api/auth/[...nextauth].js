@@ -156,7 +156,7 @@ export const options = {
       },
     }),
   ],
-  secret: process.env.JWT_SECRET,
+  secret: "yudjXHbqE5VH4LkwZ4srgsdL2EZrjp",
 
   session: {
     strategy: "jwt",
